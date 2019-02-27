@@ -1,0 +1,15 @@
+body h1 {
+  text-align: center;
+}
+body p {
+  text-align: center;
+}
+body form {
+  text-align: center;
+}
+body table {
+  display: flex;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */
